@@ -17,14 +17,21 @@
 </tr></table>
 
 ### 🚀 My Work
-
+To be written....
 
 ### 🚀 Personal Projects
-**AI_KonwledgeTip**<a href="https://github.com/sfdeggb/AI_KonwledgeTip">: This is a repository that gathers the most cutting-edge best practices in AI. You can use it to stay updated on the latest developments in AI or prepare for a job interview.</br>
-**EMind**<a href="https://github.com/sfdeggb/Emind">: a AI Agent for music gennereation based on semantic_kernel.
+Below are some of my own open-source projects on GitHub.
+
+<a href="https://github.com/sfdeggb/AI_KonwledgeTip"> AI_KonwledgeTip </a>
+This is a repository that gathers the most cutting-edge best practices in AI. You can use it to stay updated on the latest developments in AI or prepare for a job interview. </br>
+
+<a href="https://github.com/sfdeggb/Emind"> Emind </a>
+A AI Agent for music gennereation based on semantic_kernel.
 
 
 ### 💻 GitHub Projects
-
-
+Below are some open-source projects that I have participated in on GitHub.</br>
+To be written....
 ### 💼 Research Involvement
+To be written...
+
