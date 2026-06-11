@@ -20,8 +20,8 @@
 
 
 ### 🚀 Personal Projects
-AI_KonwledgeTip<a href="https://github.com/sfdeggb/AI_KonwledgeTip">: This is a repository that gathers the most cutting-edge best practices in AI. You can use it to stay updated on the latest developments in AI or prepare for a job interview.
-EMind<a href="https://github.com/sfdeggb/Emind">: a AI Agent for music gennereation based on semantic_kernel.
+**AI_KonwledgeTip**<a href="https://github.com/sfdeggb/AI_KonwledgeTip">: This is a repository that gathers the most cutting-edge best practices in AI. You can use it to stay updated on the latest developments in AI or prepare for a job interview.</br>
+**EMind**<a href="https://github.com/sfdeggb/Emind">: a AI Agent for music gennereation based on semantic_kernel.
 
 
 ### 💻 GitHub Projects
